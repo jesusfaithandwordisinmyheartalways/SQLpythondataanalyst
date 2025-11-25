@@ -1,0 +1,8 @@
+OrderID,Date,Customer,Product,Quantity,Price,Total,Notes
+1001,2024-01-03,John Smith,Keyboard,2.0,25,50.0,Keyboard for the price of $25.00 by John Smith
+1002,2024-01-03,Adam Johnson,Mouse,1.0,15,15.0,Mouse for the price of $15.00 by Adam Johnson
+1003,2024-01-04,Sarah Lee,Laptop,1.0,900,900.0,Laptop for the price of $900.00 by Sarah Lee
+1004,2024-01-04,Payton Quniton,Monitor,1.0,200,200.0,Monitor for the price of $200.00 by Payton Quniton
+1004,2024-01-04,Tony Douglas,Monitor,1.0,200,200.0,Monitor for the price of $200.00 by Tony Douglas
+1005,2024-01-05,Alexa Brown,Mouse Pad,1.0,10,10.0,Mouse Pad for the price of $10.00 by Alexa Brown
+1006,2024-01-05,Sam Young,Keyboard,1.0,25,25.0,Keyboard for the price of $25.00 by Sam Young
